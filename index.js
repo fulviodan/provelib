@@ -1,2 +1,2 @@
-import { LocalStorage } from "./src/utils";
+import { LocalStorage } from "./src/utils/localStorage";
 export { LocalStorage };
